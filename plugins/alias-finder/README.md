@@ -67,4 +67,14 @@ Running the shortest `gs` shell alias that it found:
 - Use `--exact` or `-e` to avoid aliases where the source is shorter than the input (in other words, the source must be the same with the input).
 - Use `--cheaper` or `-c` to avoid aliases where the destination is longer than the input (in other words, the destination must be the shorter than the input).
 
+## Contributing
+
+We welcome contributions to improve this plugin. Please feel free to:
+- Open an issue to report bugs or suggest enhancements.
+- Submit a pull request with clear descriptions of your changes.
+
+## License
+
+This plugin is released under the MIT License. See [LICENSE](https://github.com/ohmyzsh/ohmyzsh/blob/master/LICENSE) for details.
+
 
